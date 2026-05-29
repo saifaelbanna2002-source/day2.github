@@ -1,2 +1,2 @@
 # day2.github
-#######study_cource
+####### study_cource
